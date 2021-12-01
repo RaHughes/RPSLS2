@@ -1,0 +1,15 @@
+C:\Users\roger\source\repos\RPSLS\RPSLS\bin\Debug\net6.0\RPSLS.exe
+C:\Users\roger\source\repos\RPSLS\RPSLS\bin\Debug\net6.0\RPSLS.deps.json
+C:\Users\roger\source\repos\RPSLS\RPSLS\bin\Debug\net6.0\RPSLS.runtimeconfig.json
+C:\Users\roger\source\repos\RPSLS\RPSLS\bin\Debug\net6.0\RPSLS.dll
+C:\Users\roger\source\repos\RPSLS\RPSLS\bin\Debug\net6.0\ref\RPSLS.dll
+C:\Users\roger\source\repos\RPSLS\RPSLS\bin\Debug\net6.0\RPSLS.pdb
+C:\Users\roger\source\repos\RPSLS\RPSLS\obj\Debug\net6.0\RPSLS.csproj.AssemblyReference.cache
+C:\Users\roger\source\repos\RPSLS\RPSLS\obj\Debug\net6.0\RPSLS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\source\repos\RPSLS\RPSLS\obj\Debug\net6.0\RPSLS.AssemblyInfoInputs.cache
+C:\Users\roger\source\repos\RPSLS\RPSLS\obj\Debug\net6.0\RPSLS.AssemblyInfo.cs
+C:\Users\roger\source\repos\RPSLS\RPSLS\obj\Debug\net6.0\RPSLS.csproj.CoreCompileInputs.cache
+C:\Users\roger\source\repos\RPSLS\RPSLS\obj\Debug\net6.0\RPSLS.dll
+C:\Users\roger\source\repos\RPSLS\RPSLS\obj\Debug\net6.0\ref\RPSLS.dll
+C:\Users\roger\source\repos\RPSLS\RPSLS\obj\Debug\net6.0\RPSLS.pdb
+C:\Users\roger\source\repos\RPSLS\RPSLS\obj\Debug\net6.0\RPSLS.genruntimeconfig.cache
